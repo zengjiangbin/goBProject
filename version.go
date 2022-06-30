@@ -1,5 +1,5 @@
 package goBProject
 
-func getProjectName() {
-
+func getProjectName() string {
+	return "B"
 }
