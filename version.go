@@ -1,0 +1,5 @@
+package goBProject
+
+func getProjectName() {
+
+}
